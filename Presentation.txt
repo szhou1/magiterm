@@ -1,0 +1,26 @@
+Presentation:
+
+  Motivation:
+    collaboratively learn to program in a linux environment
+
+  Demo:
+    git clone toyproblem
+    run problem
+    need help debugging
+    add collaborator
+    chat with a friend to help
+    give friend permissions
+    friend completes problem
+    runs and works
+    woot
+    remove collaborator
+
+    user downloads folder
+    upload new code
+    run code
+
+    search for mergesort video
+    watch video and open algorithm in progress
+    solve alg
+
+  
